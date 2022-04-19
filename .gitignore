@@ -1,4 +1,5 @@
-output/
+music/
 .DS_Store
 .vscode
 main
+VGDownloader
